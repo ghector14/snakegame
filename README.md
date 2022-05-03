@@ -1,2 +1,2 @@
 # snakegame
-Simple Snake Game
+Simple Snake Game using javascript
